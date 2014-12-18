@@ -13,6 +13,7 @@
 		8495F4DA1A40201D00F2B21C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8495F4D91A40201D00F2B21C /* Images.xcassets */; };
 		8495F4DD1A40201D00F2B21C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8495F4DB1A40201D00F2B21C /* LaunchScreen.xib */; };
 		8495F4E91A40201D00F2B21C /* MUIDS_PeerTutoringTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8495F4E81A40201D00F2B21C /* MUIDS_PeerTutoringTests.swift */; };
+		8495F4F31A40269600F2B21C /* muidslogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8495F4F21A40269600F2B21C /* muidslogo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8495F4E21A40201D00F2B21C /* MUIDS PeerTutoringTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MUIDS PeerTutoringTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8495F4E71A40201D00F2B21C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8495F4E81A40201D00F2B21C /* MUIDS_PeerTutoringTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUIDS_PeerTutoringTests.swift; sourceTree = "<group>"; };
+		8495F4F21A40269600F2B21C /* muidslogo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = muidslogo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		8495F4D01A40201D00F2B21C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8495F4F21A40269600F2B21C /* muidslogo.jpg */,
 				8495F4D11A40201D00F2B21C /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +198,7 @@
 				8495F4D81A40201D00F2B21C /* Main.storyboard in Resources */,
 				8495F4DD1A40201D00F2B21C /* LaunchScreen.xib in Resources */,
 				8495F4DA1A40201D00F2B21C /* Images.xcassets in Resources */,
+				8495F4F31A40269600F2B21C /* muidslogo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
